@@ -1,4 +1,4 @@
-int notes[]={562,594,630,649};
+int notes[]={262,294,330,349};
 
 void setup() {
   // put your setup code here, to run once:
